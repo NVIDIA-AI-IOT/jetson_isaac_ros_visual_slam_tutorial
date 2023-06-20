@@ -14,7 +14,7 @@ Jump into the [**Quickstart** page](./quickstart.md) to learn how you can set up
 
 ### Example video
 
-<iframe src="https://drive.google.com/file/d/1B7CDko5ZOtpvH6hBr9L6a2fSEXLT9ycO/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mNTi1osPSIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## What is Isaac ROS Visual SLAM
 

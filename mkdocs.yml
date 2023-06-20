@@ -21,7 +21,7 @@ theme:
        - content.tabs.link
        - content.code.copy
 
-repo_url: https://gitlab-master.nvidia.com/Jetson-TME/jetson_isaac_ros_visual_slam_tutorial
+repo_url: https://github.com/NVIDIA-AI-IOT/jetson_isaac_ros_visual_slam_tutorial/
 
 plugins:
   - search
