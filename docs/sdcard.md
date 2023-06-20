@@ -10,7 +10,7 @@ The SD card image is built on top JetPack 5.1.1 SD card image for Jetson Orin Na
 
 ## Download
 
-[Download custom SD card image for Jetson Orin Nano (20GB) :fontawesome-solid-download:](https://drive.google.com/file/d/1LuNlxedISeL-iVsgJbDe2dJTPmEEz-O2/view?usp=share_link){ .md-button .md-button--primary }
+[Download custom SD card image for Jetson Orin Nano (20GB) :fontawesome-solid-download:](https://developer.nvidia.com/downloads/isaac-ros-visual-slam-orin-nano-image){ .md-button .md-button--primary }
 
 ## Misc. information about SD card image
 
